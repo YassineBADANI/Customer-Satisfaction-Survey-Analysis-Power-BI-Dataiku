@@ -60,7 +60,7 @@ An interactive dashboard designed to help regional managers visualize and analyz
 ### 2. Text Analysis Using Dataiku
 Classify survey comments into categories of dissatisfaction, providing qualitative insights to complement the quantitative results from the Power BI dashboard.
 
-![Screenshot of Dataiku Workflow](power-bi-dashboard/screenshots/text-classification.png)
+![Screenshot of Dataiku Workflow](screenshots/text-classification.png)
 
 #### Process:
 - **Data Cleaning:** Special characters and extra spaces removed, and text normalized.
