@@ -36,7 +36,7 @@ An interactive dashboard designed to help regional managers visualize and analyz
 - ### **Results by Function:** 
   Evaluates satisfaction scores across various user functions.
   
- ![Screenshot of Result by function](power-bi-dashboard/screenshots/Result%20by%20function.png)
+ ![Screenshot of Result by function](screenshots/Result%20by%20function.png)
   
   - **Average Satisfaction Score by Function (KPI):** Displays the overall satisfaction level for different user groups, helping to target specific areas for improvement.
   - **Country-wise Satisfaction by Function (Table):** Breaks down satisfaction scores for each country by user function, providing granular insights.
